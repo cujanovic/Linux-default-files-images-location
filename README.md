@@ -3,7 +3,7 @@ Default files/images location across various Linux distributions
 
 |       OS         |                                  Text files:                                             |                                  Image files:                                          |
 |------------------|:----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------:|
-|    CentOS 6      |   /usr/share/gnupg/help.txt /usr/share/doc/glibc-2.12/README                             |/usr/share/pixmaps/poweredby.png /usr/share/anaconda/pixmaps/splash.png                 |
+|    CentOS 6      |   /usr/share/gnupg/help.txt <br>/usr/share/doc/glibc-2.12/README                             |/usr/share/pixmaps/poweredby.png /usr/share/anaconda/pixmaps/splash.png                 |
 |    CentOS 7      |   /usr/share/gnupg/help.txt /usr/share/doc/glibc-2.17/README                             |/usr/share/pixmaps/poweredby.png  /usr/share/anaconda/pixmaps/rnotes/en/centos-core.png |
 |    Fedora 24     |   /usr/share/gnupg/help.txt /usr/share/doc/glibc/NEWS                                    |/usr/share/pixmaps/poweredby.png  /usr/share/doc/dracut/dracut.png                      |
 |    Fedora 25     |   /usr/share/gnupg/help.txt /usr/share/doc/glibc/NEWS                                    |/usr/share/pixmaps/poweredby.png  /usr/share/doc/dracut/dracut.png                      |
